@@ -88,8 +88,8 @@ if __name__ == "__main__":
     print("=== PROGRAM VIGENERE CIPHER BERBASIS OOP ===\n")
 
     # Data otomatis (sesuai permintaan)
-    key = "renaldo sinag"
-    pesan = "bang naga"
+    key = "melkizedekh"
+    pesan = "melkizedekh"
 
     print(f"Kata Kunci : {key}")
     print(f"Plaintext  : {pesan}\n")
